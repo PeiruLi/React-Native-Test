@@ -1,0 +1,27 @@
+This is a simple React-Native APP. 
+
+Run the React-native: 
+
+	1. Init npm
+
+	npm init
+
+	2. Install node and Watchman
+	Install node and watchman with Homebrew
+
+	brew install node
+	brew install watchman
+
+	3. Install React Native CLI
+	And then install React Native CLI with npm
+
+	npm install -g react-native-cli
+
+	4. Run the react-native
+
+	react-native run-ios
+
+
+Run the Test: 
+
+	yarn test
